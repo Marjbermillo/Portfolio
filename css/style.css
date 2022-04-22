@@ -9,8 +9,23 @@ a{
 	color: #b28161;
 	text-decoration: none;
 }
+
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Dosis', sans-serif;
+}
+
+:hover {
+	color: #2c2c2c;
+}
+
+a:link{
+	color: #b28161;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #000000;
+	text-decoration: none;
 }
 
 #buttons {
@@ -35,7 +50,7 @@ color: #b28161;
 text-transform: uppercase;
 }
 .navbar-default .navbar-nav>li>a:hover{
-	color: #555354;
+	color: #171717;
 }
 header{
 	background: url(../images/banner-final.gif);
@@ -116,7 +131,8 @@ header{
 }
 .single_service p{
 	color: #404040;
-	font-size: 14px;
+	font-size: 17px;
+	text-align: justify;
 }
 .single_progress_bar .progress {
 	height: 10px;
@@ -136,11 +152,11 @@ background-color: #edd4c7;
 	font-weight: 400;
 }
 .about_us_p{
-	font-size: 14px;
+	font-size: 17px;
 	color: #272727;
-	margin-top: 20px;
+	margin-top: 30px;
 	margin-bottom: 10px;
-	line-height: 21px;
+	line-height: 25px;
 }
 .about_title h2{
 	font-size: 25px;
@@ -216,7 +232,7 @@ padding-bottom: 20px;
 }
 
 .fun_facts1{
-	background: url(../images/obs.png);
+	background: url(../images/graphic-obs.png);
 	background-attachment: fixed !important;
 	background-repeat: repeat;
 	
@@ -267,6 +283,7 @@ left: 0;
 bottom: -4px;
 background: #f8bba1;
 }
+
 .imac{
 position: relative;
 margin-top: -40px;	
@@ -406,10 +423,6 @@ margin-bottom: 1px;
 font-size: 15px;
 color: #3d3d3d;	
 }
-
-
-
-
 
 
 .contact-form{
