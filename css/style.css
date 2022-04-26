@@ -331,16 +331,16 @@ text-transform: uppercase;
 }
 .image_overlay h2{
 position: absolute;
-bottom: 28px;
+bottom: 50px;
 left: 20px;
 font-size: 25px;
 color: #fff;
 text-transform: uppercase;
-letter-spacing: 3px;	
+letter-spacing: 2px;	
 }
 .image_overlay h4{
 position: absolute;
-bottom: 11px;
+bottom: 20px;
 left: 20px;
 color: #fff;
 font-size: 14px;
