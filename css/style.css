@@ -61,8 +61,11 @@ header{
 }
 
 .home_text{
-	padding-top: 210px;
+	padding-top: 120px;
 	padding-bottom: 210px;
+}
+#word{
+	font-size:1.3em;
 }
 .home_text h2{
 	color: #010101;
